@@ -23,6 +23,7 @@ public class MainActivityNew extends AppCompatActivity implements View.OnDragLis
     private static final String TAG = MainActivityNew.class.getSimpleName();
     private TextView textView;
     private Button button;
+    private Button button1;
     private ImageView imageView;
     private static final String IMAGE_VIEW_TAG = "LAUNCHER LOGO";
     private static final String TEXT_VIEW_TAG = "DRAG TEXT";
