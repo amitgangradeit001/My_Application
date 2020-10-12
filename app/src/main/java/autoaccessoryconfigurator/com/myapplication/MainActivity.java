@@ -29,7 +29,8 @@ public class MainActivity extends AppCompatActivity implements View.OnDragListen
 
         // Adding Comment for prod
         // Adding Comment for prod 17
-        // Adding Comment for prod 18
+
+        initUIElement();
         initUIElement();
     }
 
