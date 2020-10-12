@@ -27,6 +27,7 @@ public class MainActivity extends AppCompatActivity implements View.OnDragListen
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+        // Adding Comment for prod
         initUIElement();
     }
 
