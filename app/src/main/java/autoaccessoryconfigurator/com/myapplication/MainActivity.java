@@ -31,7 +31,6 @@ public class MainActivity extends AppCompatActivity implements View.OnDragListen
         // Adding Comment for prod 17
 
         initUIElement();
-        initUIElement();
     }
 
     @SuppressLint("ClickableViewAccessibility")
